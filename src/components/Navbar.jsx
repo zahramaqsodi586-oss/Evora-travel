@@ -63,7 +63,7 @@ function Navbar() {
 
   
 
-        <p className="mt-1 font-serif text-lg italic text-[#34483F]">
+        <p className="hidden md:flex mt-1 font-serif text-lg italic text-[#34483F]">
           Discover the World
         </p>
 
